@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>LAS ARMAS</title>
+	<link rel="stylesheet" href="estilos.css">
+        <link rel="stylesheet" href="fontello.css">
+</head>
+<body background="">
+	<header class="header">
+		<div class="container">
+		<div class="btn-menu">
+			<label for="btn-menu">☰</label>
+		</div>
+			<div class="logo">
+				<center><h1>ARMAS</h1></center>
+			</div>
+			</div>
+	<center> <img src="image.jpg" width="500" height="350"> </center>
+
+</header>
+	<div class="capa"></div>
+<!--	--------------->
+<input type="checkbox" id="btn-menu">
+<div class="container-menu">
+	<div class="cont-menu">
+		<nav>
+			<a href="#">Inicio</a>
+			<a href="#">Tipos de armas</a>
+			<a href="#">Listas de armas</a>
+			<a href="#">Contacto</a>
+			<a href="#">Youtube</a>
+		
+		</nav>
+		<label for="btn-menu">✖️</label>
+	</div>
+</div>
+</body>
+</html>
